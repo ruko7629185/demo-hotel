@@ -1,0 +1,6 @@
+{
+  "name": "L'Étoile Restaurant",
+  "description": "L'Étoile - Ultra-premium three Michelin-star fine dining restaurant experience website featuring editorial layouts, interactive wine-paired menus, luxury bookings, and premium aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
